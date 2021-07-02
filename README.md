@@ -1,12 +1,11 @@
 ### Hi there 👋
-<!-- 
-I'm Ying, an iOS software engineer at Microsoft.
 
-- 🔭 I'm currently working on [Outlook for iOS](https://apps.apple.com/us/app/id951937596), and a side project called [Taio](https://taio.app)
-- <del>🌱 I'm currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)</del>
-- 📫 How to reach me: [@cyanapps](https://twitter.com/cyanapps)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: my code is written by a [cat](https://twitter.com/cyanapps/status/1219640123186405382) -->
+I'm Effort, an iOS software engineer.
+
+- 🔭 I’m currently working on something.
+- 🌱 I’m currently learning javascript and swift
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ### GitHub Stats
 
